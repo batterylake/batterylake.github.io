@@ -1,15 +1,1 @@
----
-layout: frontpage
-title: Nick Clark
-description: Data Science | AI Alignment | Notre Dame
----
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://www.linkedin.com/in/nicholas-j-clark/">linkedin</a></li>
-          <li><a href="https://github.com/batterylake">github</a></li>
-          <li><a href="https://batterylake.github.io/blog">blog</a></li>
-      </ul>
-  </div>
-</div>
+Nick Clark is student at the University of Notre Dame studying Mathematics and Philosophy. He is currently a Trusted AI Student Reseacher at the Notre Dame Center for Research Computing. He is interested in topics at the intersection of AI and philosophy include the alignment problem, theory of mind, and algorithmic interpretability.
