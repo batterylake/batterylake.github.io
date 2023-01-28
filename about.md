@@ -1,11 +1,10 @@
 ---
 layout: page
 title: about
-description: Nick Clark is a Trusted AI Student Researcher at the University of Notre Dame
+description: bio
 ---
 
-[github](https://github.com/batterylake)<br/>
-[blog](https://batterylake.github.io/blog/) <br/>
+Nick Clark is student at the University of Notre Dame studying Mathematics and Philosophy. He is currently a Trusted AI Student Reseacher at the Notre Dame Center for Research Computing. He is interested in topics at the intersection of AI and philosophy include the alignment problem, theory of mind, and algorithmic interpretability.
 ---
 
 <div class="container">
@@ -14,7 +13,8 @@ description: Nick Clark is a Trusted AI Student Researcher at the University of 
     <div class="row-fluid">
         <div class="span5">
             Nick Clark<br/>
-            <br/><br/>
+            University of Notre Dame<br/>
+            nclark AT nd DOT edu<br/>
         </div>
 
     </div>
