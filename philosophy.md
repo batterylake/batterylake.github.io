@@ -1,2 +1,2 @@
-probability
-[Thoughts on the Linda Problem]({{ BASE_PATH }}/linda_prob.html)
+##probability  
+- [Thoughts on the Linda Problem]({{ BASE_PATH }}/linda_prob.html)
