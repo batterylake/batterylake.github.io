@@ -6,8 +6,6 @@ description: Nick Clark is a Trusted AI Student Researcher at the University of 
 
 [github](https://github.com/batterylake)<br/>
 [blog](https://batterylake.github.io/blog/) <br/>
-he/him
-
 ---
 
 <div class="container">
