@@ -1,2 +1,0 @@
-## Nick Clark's website
-
