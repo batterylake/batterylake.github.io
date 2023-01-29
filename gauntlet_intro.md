@@ -1,6 +1,6 @@
 Jan 28, 2023  
 
-Apart Research is an alignment research organzation who provides an AI safety reading list, they dub "The Gauntlet." The objective is to complete all 20 books and articles in 20 days.
+[Apart Research](https://apartresearch.com/) is an alignment research organzation that created an AI safety reading list they dub "[The Gauntlet](https://apartresearch.com/ai-safety-gauntlet)." The objective is to complete all 20 books and articles in 20 days.
 
-Here are all of the works, along with posts presenting my analysis     
+Here are all of the works, along with my analysis     
 1. [Preventing an AI-related catastrophe]({{ BASE }}/prevention_hilton.html)
