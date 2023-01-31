@@ -1,6 +1,6 @@
 Jan 30, 2023
 
-[The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+[The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  
 Tim Urban Jan 2015
 
 TL;DR
