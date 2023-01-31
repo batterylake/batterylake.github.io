@@ -1,6 +1,6 @@
 Jan 30, 2023
 
-The AI Revolution
+[The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 Tim Urban Jan 2015
 
 TL;DR
@@ -19,4 +19,4 @@ The argument can be modeled as follows:
 
 Thoughts
 - The first part of this post is like Kurzweil-lite, and in fact, Kurzweil is a recurring character representing the confident camp of futurists
-- This organization of topics is likely superior to my own for introducing people to the idea of AI alignment. I often begin with a thought experiment asking what objective we should give a superintelligent entity, and demonstrate perverse instantiation 
+- This organization of topics is likely superior to my own for introducing people to the idea of AI alignment. I often begin with a thought experiment asking what objective we should give a superintelligent entity, and demonstrate [perverse instantiation](https://forum.effectivealtruism.org/topics/perverse-instantiation#:~:text=Perverse%20instantiation%20is%20a%20type,of%20those%20who%20programmed%20it.) 
