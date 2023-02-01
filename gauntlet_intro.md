@@ -4,3 +4,5 @@ Jan 28, 2023
 
 Here are all of the works, along with my analysis     
 1. [Preventing an AI-related catastrophe]({{ BASE }}/prevention_hilton.html)
+2. [The AI Revolution]({{ BASE }}/ai_urban.html)
+3. [AI Safety From First Principles]({{ BASE }}/principles_ngo.html)
