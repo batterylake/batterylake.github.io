@@ -1,4 +1,4 @@
-MrBeast Title Generator
+MrBeast's Next Video
 =============================
 YouTube API + GPT-3 Fine-tuning = Avocado and Bacon 100 Sandwich Challenge!
 ------------------------------------------------
