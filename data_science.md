@@ -1,2 +1,2 @@
 Projects
-- [MrBeast Title Generator](/mrbeast.html)
+- [MrBeast's Next Video](/mrbeast.html)
