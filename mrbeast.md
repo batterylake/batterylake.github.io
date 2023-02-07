@@ -34,4 +34,4 @@ Overall, I am please with the performance as the fine-tuned model created titles
 
 ![ChatGPT Example](assets/chatgpt_example.jpg)
 
-Thanks for reading! For those interested, all the code is on GitHub here.
+Thanks for reading! For those interested, all the code is on GitHub [here](https://github.com/batterylake/mrbeastgpt).
