@@ -24,13 +24,15 @@ Here is an example of what GPT-3 using Curie could do prior to the fine-tuning:
 
 ![badminton](/assets/badminton.png)
 
-And a couple more examples:
+Not too bad!  
+
+Here are a couple more examples:
 - avocado -> Avocado and Bacon 100 Sandwich Challenge!
 - purple -> So I've Been Trying to Get Him to Wear Purple for a Day...
 - PewDiePie -> PewdiePie, You're a Joke, Remember You're Just a Millionaire!
 
 
-Overall, I am please with the performance as the fine-tuned model created titles more similar to those of MrBeast than the baseline. To be fair though, ChatGPT knows who MrBeast is and is quite capable of generating video titles of a similar style.
+Overall, I am pleased with the performance as the fine-tuned model created titles more similar to those of MrBeast than the baseline. To be fair though, ChatGPT knows who MrBeast is and is quite capable of generating video titles of a similar style.
 
 ![ChatGPT Example](assets/chatgpt_example.jpg)
 
