@@ -1,1 +1,2 @@
-data science
+Projects
+- [MrBeast Title Generator](/mrbeast.html)
